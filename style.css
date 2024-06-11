@@ -1,0 +1,93 @@
+#conteiner {
+    width: 100%;
+    
+    background: linear-gradient(45deg, #69f0aa, #f9ffd1);
+}
+#name{
+    text-align: center;
+    border: solid rgb(0, 0, 0) 3px;
+    background: -webkit-linear-gradient(315deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: -moz-linear-gradient(315deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: linear-gradient(315deg, rgb(221, 239, 211), rgb(0, 255, 33));
+
+}
+#first{
+    margin-top: 30px;
+    padding: 15px;
+    background: -webkit-linear-gradient(0deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: -moz-linear-gradient(0deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: linear-gradient(0deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    border: black solid 3px;
+    border-radius: 10px;
+    float: left;
+    width: 44%;
+
+
+}
+#second{
+    margin-top: 30px;
+    padding: 15px;
+    background: -webkit-linear-gradient(45deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: -moz-linear-gradient(45deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: linear-gradient(45deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    border: black solid 3px;
+    border-radius: 10px;
+    text-emphasis: none;
+    text-decoration: none;
+    color: black;
+    float:right;
+    width: 44%;
+
+}
+#third{
+    margin-top: 30px;
+    padding: 15px;
+    background: -webkit-linear-gradient(90deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: -moz-linear-gradient(90deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: linear-gradient(90deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    border: black solid 3px;
+    border-radius: 10px;
+    float: right;
+    width: 44%;
+
+
+}
+#fourth{
+    margin-top: 30px;
+    padding: 15px;
+    background: -webkit-linear-gradient(135deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: -moz-linear-gradient(135deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: linear-gradient(135deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    border: black solid 3px;
+    border-radius: 10px;
+    float: left;
+    width: 44%;
+
+
+}
+#fifth{
+    margin-top: 30px;
+    padding: 15px;
+    background: -webkit-linear-gradient(180deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: -moz-linear-gradient(180deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: linear-gradient(180deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    border: black solid 3px;
+    border-radius: 10px;
+    float: right;
+    width: 44%;
+
+
+}
+#sixth{
+    margin-top: 30px;
+    padding: 15px;
+    background: -webkit-linear-gradient(225deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: -moz-linear-gradient(225deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    background: linear-gradient(225deg, rgb(221, 239, 211), rgb(0, 255, 33));
+    border: black solid 3px;
+    border-radius: 10px;
+    float: right;
+    width: 44%;
+
+
+}
